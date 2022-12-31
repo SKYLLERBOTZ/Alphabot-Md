@@ -286,31 +286,31 @@ exports.OffNsfw = () => {
     return `The nsfw feature has not been activated`
 }
 exports.CoverBanLol = (prefix, command) => {
-    return `Example : ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|jinx7`
+    return `Example : ${prefix + command} nama|heroes\nUsage: ${prefix + command} hikachu|jinx7`
 }
 exports.coverbannerlol = (style) => {
     return `*The Heroes You Entered are Wrong*\n\n_Here's the list of true heroes, Total_ *${style}* _heroes_\n\n`
 }
 exports.pubglogomaker = (prefix, command) => {
-    return `Example : ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|women`
+    return `Example : ${prefix + command} nama|style\nUsage: ${prefix + command} hikachu|women`
 }
 exports.pubglogomaker_ = (style) => {
     return `*The style you entered is wrong*\n\n_Here's a list of the correct styles, Total_ *${style}* _style_\n\n`
 }
 exports.colorfulpubg = (prefix, command) => {
-    return `Example : ${prefix + command} nama|color\nUsage: ${prefix + command} zeeone|gold`
+    return `Example : ${prefix + command} nama|color\nUsage: ${prefix + command} hikachu|gold`
 }
 exports.colorfulpubg_ = (style) => {
     return `*The color you entered is wrong*\n\n_Here's a list of the correct colors, Total_ *${style}* _color_\n\n`
 }
 exports.astronotspace = (prefix, command) => {
-    return `Example: ${prefix + command} nama|style\nUsage: ${prefix + command} zeeone|anubis`
+    return `Example: ${prefix + command} nama|style\nUsage: ${prefix + command} hikachu|anubis`
 }
 exports.wallpaperaov = (prefix, command) => {
-    return `Example: ${prefix + command} nama|heroes\nUsage: ${prefix + command} zeeone|allain`
+    return `Example: ${prefix + command} nama|heroes\nUsage: ${prefix + command} hikachu|allain`
 }
 exports.maketeamlogo = (style, style2, prefix, command) => {
-    return `Example: ${prefix + command} nama|${style}\nUsage: ${prefix + command} zeeone|${style2}`
+    return `Example: ${prefix + command} nama|${style}\nUsage: ${prefix + command} hikachu|${style2}`
 }
 
 exports.MaketeamlogoT = (a, b, c, d, e, f, g, h) => {
@@ -519,7 +519,7 @@ exports.NoAudRep = (prefix, command) => {
     return `Reply to the audio you want to change with caption *${prefix + command}*`
 }
 exports.NoTagBan = () => {
-    return `Usage examples :\n${prefix + command} 62938828728992 \nor\n${prefix + command} @tagmember`
+    return `Usage examples :\n${prefix + command} 6285882135288 \nor\n${prefix + command} @tagmember`
 }
 
 exports.getBan = (a) => {
@@ -731,7 +731,7 @@ i'm ${botname}, this bot is Whatsapp Multi-Device Beta.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Hikachuu :3 :*
 
 ╭─❒ 「 Bot Info 」 
 │○ !owner
@@ -1060,7 +1060,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !twitter link
 
 ╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 85882135288
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
@@ -1726,6 +1726,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Fadilahrwt
+│○ Hikachuu
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -1750,7 +1752,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di Ig : @Sky4you
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -2446,6 +2448,8 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
 │○ My Parents
+│○ Fadilahrwt
+│○ Hikachuu
 │○ Fatih A.
 │○ Ferdi
 │○ DikaArdnt
@@ -2460,7 +2464,7 @@ exports.tqto = () =>{
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-│○ !nomorhoki 887435047326
+│○ !nomorhoki 85882135288
 │○ !artimimpi [query]
 │○ !artinama [query]
 │○ !ramaljodoh
