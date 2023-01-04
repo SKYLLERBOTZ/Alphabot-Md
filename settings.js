@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Hikachuu :3" //namabot kalian
-global.ownername= "Sky4ayou" //nama kalian
+global.ownername= "Sky4you" //nama kalian
 global.myweb ="https://instagram.com/sky4you" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@skyisgood9453" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/sky4you" //bebas
